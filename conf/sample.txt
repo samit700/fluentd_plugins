@@ -1,0 +1,2 @@
+{"jsonString":"[{\"id\": \"file\",  \"value\": \"File\", \"eventData\":{\"a\":\"1\"}}]", "properties":{"p":"1"}}
+{"jsonString":"[{\"id\": \"file\",  \"value\": \"File\", \"eventData\":{\"a\":\"1\"}},{\"id\": \"file\",  \"value\": \"File2\", \"eventData\":{\"a\":\"2\"}}]", "properties":{"p":"1"}}
